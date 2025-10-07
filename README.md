@@ -3,30 +3,30 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+We+are+Ticcer+Company!;+Software+Developers+from+Azerbaijan!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vusal+Jafarov!;+Software+Developer+from+Azerbaijan!" />
 </h1>
 
-<h3 align="center">A passionate software & game development company based in Azerbaijan 🇦🇿</h3>
+<h3 align="center">A passionate software & game developer based in Azerbaijan 🇦🇿</h3>
 
 <br/>
 
 <div align="center">
  
  🔭 Currently working on **Puzzle Game**  
- 🌱 Learning **AWS, Docker, and Supabase**  
- 💬 Contact us at **ticcersoftwarecompany@gmail.com**  
- ⚡ Fun fact: *Game of Thrones Night's Watch cloaks are made from Ikea rugs!*  
+ 🌱 Learning **Docker, AWS, and Supabase**  
+ 💬 Ask me about **Flutter, Unreal Engine, Firebase, or anything**  
+ ⚡ Fun fact: *I code while drinking coffee ☕*  
 
 </div>
 
 <br/>
 
-<!-- İlan / Projects bölməsi -->
+<!-- Projects / Announcements -->
 <h2 align="center">📢 Current Projects & Announcements</h2>
 <div align="center">
 - 🟢 Puzzle Game – Under Development  
-- 🟡 Hiring: Looking for Flutter & Unreal Engine developers  
-- 🔵 Exploring AI-driven mobile apps for 2025 launch
+- 🟡 Exploring AI-driven mobile apps for 2025  
+- 🔵 Learning Docker & AWS to improve backend skills
 </div>
 
 <br/>
@@ -71,17 +71,17 @@
 
 <h2 align="center">🐍 Contribution Activity</h2>
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vusalc537/vusalc537/output/github-contribution-grid-snake.svg" />
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vusalc537/vusalc537/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br/><br/>
 <hr/>
 
-<h2 align="center">🌍 About Ticcer Company</h2>
+<h2 align="center">🌍 About Me</h2>
 <p align="center">
-  We are a software and game development company from Azerbaijan.  
-  Our mission is to create fun, innovative, and user-friendly digital experiences.  
-  We develop mobile, web, and PC projects using modern technologies like Flutter, Firebase, and Unreal Engine.  
+  I'm a passionate software and game developer from Azerbaijan.  
+  I create fun, innovative, and user-friendly digital experiences.  
+  I work on mobile, web, and PC projects using modern technologies like Flutter, Firebase, and Unreal Engine.  
 </p>
 
 <br/>
