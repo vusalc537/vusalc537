@@ -1,4 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vusalc537.vusalc537" />
+<!-- GIF Başlangıç -->
+[![MasterHead](https://cdn-images-1.medium.com/v2/resize:fit:1024/1*rB-3Q2k7o9qk8IyAzx-TRA.gif)](https://rishavchanda.io)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+We+are+Ticcer+Company!;+Software+Developers+from+Azerbaijan!" />
@@ -13,8 +15,18 @@
  🔭 Currently working on **Puzzle Game**  
  🌱 Learning **AWS, Docker, and Supabase**  
  💬 Contact us at **ticcersoftwarecompany@gmail.com**  
- ⚡ Fun fact: *Our first game was created in Unreal Engine!*  
+ ⚡ Fun fact: *Game of Thrones Night's Watch cloaks are made from Ikea rugs!*  
 
+</div>
+
+<br/>
+
+<!-- İlan / Projects bölməsi -->
+<h2 align="center">📢 Current Projects & Announcements</h2>
+<div align="center">
+- 🟢 Puzzle Game – Under Development  
+- 🟡 Hiring: Looking for Flutter & Unreal Engine developers  
+- 🔵 Exploring AI-driven mobile apps for 2025 launch
 </div>
 
 <br/>
